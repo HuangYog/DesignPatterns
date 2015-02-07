@@ -16,7 +16,7 @@ public class TaskManager {
     public void displayServices(){}
 
     public static TaskManager getInstance(){
-        if (tm!=null){
+        if (tm==null){
             tm = new TaskManager();
         }
         return tm;
