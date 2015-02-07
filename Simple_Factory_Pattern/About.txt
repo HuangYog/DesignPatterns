@@ -1,0 +1,2 @@
+Simple Factory Pattern
+简单工厂模式
