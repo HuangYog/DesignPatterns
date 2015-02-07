@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27d62a9b-da41-4267-a2c6-a78b29131da5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Simple_Factory_Pattern/src/com/demo/product/Chart.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Simple_Factory_Pattern/src/com/demo/factory/ChartFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Simple_Factory_Pattern/src/com/demo/test/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Simple_Factory_Pattern/src/com/demo/product/impl/DatabaseLogger.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Simple_Factory_Pattern/src/com/demo/factory/impl/DatabaseLoggerFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Simple_Factory_Pattern/src/com/demo/product/impl/FileLogger.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Simple_Factory_Pattern/src/com/demo/factory/impl/FileLoggerFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Simple_Factory_Pattern/src/com/demo/product/impl/HistogramChart.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Simple_Factory_Pattern/src/com/demo/product/impl/LineChart.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Simple_Factory_Pattern/src/com/demo/product/Logger.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Simple_Factory_Pattern/src/com/demo/factory/LoggerFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Simple_Factory_Pattern/src/com/demo/product/impl/PieChart.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Simple_Factory_Pattern/src/com/demo/util/XMLUtil.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Simple_Factory_Pattern/src/com/demo/util/config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Simple_Factory_Pattern/Simple_Factory_Pattern.iml" afterPath="$PROJECT_DIR$/Simple_Factory_Pattern/Simple_Factory_Pattern.iml" />
+    <list default="true" id="27d62a9b-da41-4267-a2c6-a78b29131da5" name="Default" comment="设计模式--单例模式">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DesignPatterns.iws" />
@@ -637,7 +622,7 @@
       <workItem from="1423235356715" duration="1428000" />
       <workItem from="1423278017798" duration="1155000" />
       <workItem from="1423284644578" duration="32000" />
-      <workItem from="1423315968486" duration="4533000" />
+      <workItem from="1423315968486" duration="4581000" />
     </task>
     <task id="LOCAL-00001" summary="设计模式">
       <created>1423278044963</created>
@@ -651,11 +636,17 @@
       <option name="project" value="LOCAL" />
       <updated>1423279409091</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="设计模式--单例模式">
+      <created>1423322644208</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1423322644208</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7148000" />
+    <option name="totallyTimeSpent" value="7196000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
